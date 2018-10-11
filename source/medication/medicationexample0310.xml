@@ -16,15 +16,15 @@
   <code>
     <coding>
       <system value="http://snomed.info/sct"/>
-      <code value="430127000"/>
-      <display value="Oral Form Oxycodone (product)"/>
+      <code value="414984009"/>
+      <display value="Product containing oxycodone (medicinal product)"/>
     </coding>
   </code>
     <form>
       <coding>
         <system value="http://snomed.info/sct"/>
-        <code value="385055001"/>
-        <display value="Tablet dose form (qualifier value)"/>
+        <code value="421026006"/>
+        <display value="Conventional release oral tablet (dose form)"/>
       </coding>
     </form>
     <ingredient>

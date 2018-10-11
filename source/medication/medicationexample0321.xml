@@ -24,8 +24,8 @@
     <form>
       <coding>
         <system value="http://snomed.info/sct"/>
-        <code value="385055001"/>
-        <display value="Tablet dose form (qualifier value)"/>
+        <code value="421026006"/>
+        <display value="Conventional release oral tablet (dose form)"/>
       </coding>
     </form>
     <ingredient>

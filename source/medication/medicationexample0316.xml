@@ -17,15 +17,15 @@
     <coding>
       <system value="http://snomed.info/sct"/>
       <code value="317935006"/>
-      <display value="Chlorthalidone 50mg tablet (product)"/>
+      <display value=" Product containing precisely chlortalidone 50 milligram/1 each conventional release oral tablet (clinical drug)"/>
     </coding>
   </code>
   
     <form>
       <coding>
         <system value="http://snomed.info/sct"/>
-        <code value="385055001"/>
-        <display value="Tablet dose form (qualifier value)"/>
+        <code value="421026006"/>
+        <display value="Conventional release oral tablet (dose form)"/>
       </coding>
     </form>
     <ingredient>

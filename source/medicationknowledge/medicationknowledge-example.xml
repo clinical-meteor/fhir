@@ -28,7 +28,7 @@
     <coding>
       <system value="http://snomed.info/sct"/>
       <code value="385219001"/>
-      <display value="Injection Solution (qualifier value)"/>
+      <display value="Conventional release solution for injection (dose form)"/>
     </coding>
   </doseForm>
   <amount>

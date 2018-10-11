@@ -20,8 +20,8 @@
     <form>
       <coding>
         <system value="http://snomed.info/sct"/>
-        <code value="75359005"/>
-        <display value="Opthalmic Solution (qualifier value)"/>
+        <code value="385125006"/>
+        <display value="Conventional release solution for eye drops (dose form)"/>
       </coding>
     </form>
     <ingredient>

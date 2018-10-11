@@ -5,8 +5,8 @@
       <form>
          <coding>
             <system value="http://snomed.info/sct"/>
-            <code value="385101003"/>
-            <display value="Ointment"/>
+            <code value="385123004"/>
+            <display value="Conventional release eye ointment (dose form)"/>
          </coding>
          <text value="Ointment"/>
       </form>

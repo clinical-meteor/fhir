@@ -12948,6 +12948,10 @@
     <display value="Entire body as a whole"/>
     <display value="Entire body as a whole (body structure)"/>
   </concept>
+  <concept id="385024007" display="Oral suspension">
+    <display value="Oral suspension"/>
+    <display value="Oral suspension (qualifier value)"/>
+  </concept>
   <concept id="385055001" display="Tablet">
     <display value="Tablet"/>
     <display value="Tablets"/>
@@ -12965,6 +12969,15 @@
   <concept id="385101003" display="Ointment">
     <display value="Ointment"/>
     <display value="Ointment (qualifier value)"/>
+  </concept>
+  <concept id="385123004" display="Eye ointment">
+    <display value="Eye ointment"/>
+    <display value="Eye ointment (qualifier value)"/>
+  </concept>
+  <concept id="385125006" display="Eye drops solution">
+    <display value="Eye drops solution"/>
+    <display value="Eye drops solution (qualifier value)"/>
+    <display value="Ophthalmic drops solution"/>
   </concept>
   <concept id="385157007" display="Nasal spray">
     <display value="Nasal spray"/>
@@ -13972,6 +13985,10 @@
     <display value="Adiposis"/>
     <display value="Adiposity"/>
   </concept>
+  <concept id="414984009" display="Oxycodone">
+    <display value="Oxycodone (product)"/>
+    <display value="Oxycodone"/>
+  </concept>
   <concept id="41561001" display="DK pig 30">
     <display value="DK pig 30"/>
     <display value="Dekalb hybrid pig line 30 (organism)"/>
@@ -14203,6 +14220,10 @@
     <display value="Push - dosing instruction imperative (qualifier value)"/>
     <display value="Push"/>
     <display value="Push - dosing instruction imperative"/>
+  </concept>
+  <concept id="420692007" display="Oral capsule">
+    <display value="Oral capsule"/>
+    <display value="Oral capsule (qualifier value)"/>
   </concept>
   <concept id="421026006" display="Oral tablet">
     <display value="Oral tablet"/>

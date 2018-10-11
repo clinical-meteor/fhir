@@ -31,10 +31,10 @@
     <include>
       <system value="http://snomed.info/sct"/>
       <filter>
-      <!--   SNOMED CT - Children of SCTID: xxxxxxxxxxxxx "route of administration value"   -->
+        <!--   SNOMED CT - Children of SCTID: xxxxxxxxxxxxx "Pharmaceutical dose form (dose form)"   -->
         <property value="concept"/>
         <op value="is-a"/>
-        <value value="421967003"/>
+        <value value="736542009"/>
       </filter>
     </include>
   </compose>

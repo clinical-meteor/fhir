@@ -13,8 +13,8 @@
       <code>
         <coding>
           <system value="http://snomed.info/sct"/>
-          <code value="386906001"/>
-          <display value="Capecitabine (substance)"/>
+          <code value="108761006"/>
+          <display value="Capecitabine (medicinal product)"/>
         </coding>
       </code>
     </Substance>
@@ -32,8 +32,8 @@
     <form>
       <coding>
         <system value="http://snomed.info/sct"/>
-        <code value="385055001"/>
-        <display value="Tablet dose form (qualifier value)"/>
+        <code value="421026006"/>
+        <display value="Conventional release oral tablet (dose form)"/>
       </coding>
     </form>
     <ingredient>
