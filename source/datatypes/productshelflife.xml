@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office">
+<?xml version="1.0" encoding="UTF-8"?><?mso-application progid="Excel.Sheet"?><Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office">
  <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
   <Author>Grahame</Author>
   <LastAuthor>Rik Smithies</LastAuthor>
@@ -657,7 +657,7 @@
     <Cell ss:StyleID="s64"><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">The shelf-life and storage information for a medicinal product item or container can be described using this class</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
     <Cell ss:StyleID="s70"><Data ss:Type="String">The shelf-life and storage information for a medicinal product item or container can be described using this class</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
-    <Cell ss:Index="22" ss:StyleID="s71"><Data ss:Type="String">0;200</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
+    <Cell ss:Index="22" ss:StyleID="s71"><Data ss:Type="String">0;0</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
    </Row>
    <Row ss:AutoFitHeight="0" ss:Height="39">
     <Cell ss:StyleID="s70"><Data ss:Type="String">ProductShelfLife.identifier</Data><NamedCell ss:Name="_FilterDatabase"/></Cell>
@@ -743,7 +743,7 @@
    <SplitHorizontal>1</SplitHorizontal>
    <TopRowBottomPane>1</TopRowBottomPane>
    <SplitVertical>1</SplitVertical>
-   <LeftColumnRightPane>1</LeftColumnRightPane>
+   <LeftColumnRightPane>14</LeftColumnRightPane>
    <ActivePane>0</ActivePane>
    
    <ProtectObjects>False</ProtectObjects>
